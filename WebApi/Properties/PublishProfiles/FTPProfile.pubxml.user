@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAXeKsyWZ4y0CSv8r0MFRrCwAAAAACAAAAAAAQZgAAAAEAACAAAADWqhwsO/teDox1BzmsgsokVFNSs2Z4csDCLYvixcfEagAAAAAOgAAAAAIAACAAAABUdtM8c2xMu0QMiJJmTmoKBjevyI/3gEEftHhERz4DOyAAAABK7VRuTrXRiNHqw14kLYFOtY/t4iJQAFtF+7o9NK2JXEAAAAAv5hFfwVHJpDJ3KHmS3McxXwSnT/L1WUV0DAmyss9Xpi7lPZN565F7+UM8GnVkFc8PIkE93E06X5xH2Hllfrb/</EncryptedPassword>
+    <_PublishTargetUrl>fpt://apivims.com/httpdocs</_PublishTargetUrl>
+    <History>False|2022-11-14T08:32:50.2561834Z;False|2022-11-14T13:56:34.5450410+05:30;</History>
+  </PropertyGroup>
+</Project>

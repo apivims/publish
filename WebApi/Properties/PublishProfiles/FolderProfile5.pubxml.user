@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Dr.Vikhe_Patil_Web_Api\Bk\WebApi _Final\WebApi\bin\Release\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-08T09:27:42.4672645Z;True|2022-11-08T14:56:32.5122633+05:30;True|2022-11-08T13:02:02.1375858+05:30;</History>
+  </PropertyGroup>
+</Project>

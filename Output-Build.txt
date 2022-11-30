@@ -1,0 +1,5 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: WebApplication1, Configuration: Debug Any CPU ------
+Restored D:\Dr.Vikhe_Patil_Web_Api\JWT\WebApplication1\WebApplication1\WebApplication1.csproj (in 13 ms).
+1>WebApplication1 -> D:\Dr.Vikhe_Patil_Web_Api\JWT\WebApplication1\WebApplication1\bin\Debug\net5.0\WebApplication1.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
